@@ -16,4 +16,5 @@ public class User {
 		this.phoneNumber = phoneNumber;
 		this.dobDate = dobDate;
 	}
+	
 }
